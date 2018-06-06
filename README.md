@@ -25,3 +25,4 @@ This app accompanies the Ionic component documentation.
 ### Updating ionic-site
 
 `ionic-site` will automatically update on every commit to the master branch of this repo.
+testing

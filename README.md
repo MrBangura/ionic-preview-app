@@ -1,4 +1,4 @@
-# Ionic Preview App
+# Ionic Preview App testing
 
 This app accompanies the Ionic component documentation.
 
